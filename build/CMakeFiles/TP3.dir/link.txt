@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/TP3.dir/link.d CMakeFiles/TP3.dir/TP3/TP3/TP3.c.o "/mnt/c/Users/a/source/repos/C Programming Language/TP3/TP3/packing_Wang.o" -o bin/TP3  -lm

@@ -1,0 +1,6 @@
+/mnt/c/Users/a/source/repos/C Programming Language/build/CMakeFiles/TP1.dir
+/mnt/c/Users/a/source/repos/C Programming Language/build/CMakeFiles/TP2.dir
+/mnt/c/Users/a/source/repos/C Programming Language/build/CMakeFiles/TP3.dir
+/mnt/c/Users/a/source/repos/C Programming Language/build/CMakeFiles/packer.dir
+/mnt/c/Users/a/source/repos/C Programming Language/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/a/source/repos/C Programming Language/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+﻿  TP3.c
+C:\Users\a\source\repos\C Programming Language\TP3\TP3\TP3.c(164,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

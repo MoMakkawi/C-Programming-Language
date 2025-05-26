@@ -1,0 +1,6 @@
+﻿  TP1.c
+  logical_MAKKAWI.c
+  Generating Code...
+C:\Users\a\source\repos\C Programming Language\TP1\TP1\TP1.c(50,13): warning C4013: 'isprint' undefined; assuming extern returning int
+C:\Users\a\source\repos\C Programming Language\TP1\TP1\TP1.c(63,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  TP1.vcxproj -> C:\Users\a\source\repos\C Programming Language\TP1\x64\Debug\TP1.exe
