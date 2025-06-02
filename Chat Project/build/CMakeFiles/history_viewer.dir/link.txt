@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/history_viewer.dir/link.d CMakeFiles/history_viewer.dir/history_viewer.c.o CMakeFiles/history_viewer.dir/chat.c.o CMakeFiles/history_viewer.dir/message_store.c.o -o history_viewer

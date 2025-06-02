@@ -1,0 +1,5 @@
+/mnt/c/Users/a/Desktop/Chat Application Enhancement Project_ Goals and Improvements/build/CMakeFiles/server.dir
+/mnt/c/Users/a/Desktop/Chat Application Enhancement Project_ Goals and Improvements/build/CMakeFiles/client.dir
+/mnt/c/Users/a/Desktop/Chat Application Enhancement Project_ Goals and Improvements/build/CMakeFiles/history_viewer.dir
+/mnt/c/Users/a/Desktop/Chat Application Enhancement Project_ Goals and Improvements/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/a/Desktop/Chat Application Enhancement Project_ Goals and Improvements/build/CMakeFiles/rebuild_cache.dir
